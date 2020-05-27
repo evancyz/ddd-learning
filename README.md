@@ -14,13 +14,9 @@
 
 * 官方DDD社区（看起来已经很久不维护了）：https://dddcommunity.org/
 * 领域驱动设计峰会（有视频回放）：http://www.ddd-china.com/
-  * [2017届](http://www.ddd-china.com/look-back-2017.html)
-    * oDDD在盒马中的实践
 
 ## 优秀DDD博客
-
-* DDD社区
-  * [Data Points - Coding for Domain-Driven Design: Tips for Data-Focused Devs](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/august/data-points-coding-for-domain-driven-design-tips-for-data-focused-devs)
+* [Data Points - Coding for Domain-Driven Design: Tips for Data-Focused Devs](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/august/data-points-coding-for-domain-driven-design-tips-for-data-focused-devs)
 * [如何一步一步用DDD设计一个电商网站](https://www.cnblogs.com/Zachary-Fan/p/5991674.html)
 * [当Subdomain遇见Bounded Context](https://insights.thoughtworks.cn/subdomain-and-bounded-context/)
 
