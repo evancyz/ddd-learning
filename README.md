@@ -6,6 +6,8 @@
 
 [《领域驱动设计精粹》](https://book.douban.com/subject/30333944/) — Vaughn Vernon
 
+*这本书推荐新手先学习，很薄，整体概念都有，可以理解成是IDDD这本书的的简化版*
+
 # DDD课程
 
 极客时间[《DDD实战课》](https://time.geekbang.org/column/intro/238?code=Dq5EPat2lNV4uAWZZZXDh1XwkFhfbSyCQCJd4UDnlfQ%3D) — 欧创新
@@ -14,11 +16,16 @@
 
 * 官方DDD社区（看起来已经很久不维护了）：https://dddcommunity.org/
 * 领域驱动设计峰会（有视频回放）：http://www.ddd-china.com/
+  * [2017年在线视频](https://www.itdks.com/Home/Act/apply?mUid=3049982&id=1790)、PPT：链接:https://pan.baidu.com/s/1tD-SwWXcwQcUOMRHEyB-NA  密码:8nhk
+  * [2018年在线视频](https://www.itdks.com/index.php/Act/apply_upgrade/id/2638/mUid/0/tpl/tpltwo.html#dingbu)、PPT：链接:https://pan.baidu.com/s/154fEwF1NK1AiMAO6qq_I7g  密码:sqmi
+  * [2019年在线视频](https://www.itdks.com/Act/apply?id=3188&from=search)、PPT：链接:https://pan.baidu.com/s/19fx09707_yw02Cs-pkuA5A  密码:qc88
+
+*宝藏网站，全部都是聊DDD的，相关PPT和视频在网站里都有*
 
 # 优秀DDD博客
 ### DDD原理相关
 
-* 殷浩谈DDD系列（这系列强烈推荐，整体思路很清晰，实操性比较强）**
+* 殷浩谈DDD系列（这系列强烈推荐，整体思路很清晰，实操性比较强）
   * [殷浩详解DDD系列 第一讲 - Domain Primitive](https://mp.weixin.qq.com/s/kpXklmidsidZEiHNw57QAQ)
   * [殷浩详解DDD系列 第二讲 - 应用架构](https://mp.weixin.qq.com/s/MU1rqpQ1aA1p7OtXqVVwxQ)
   * [殷浩详解DDD系列 第三讲 - Repository模式](https://mp.weixin.qq.com/s/1bcymUcjCkOdvVygunShmw)
