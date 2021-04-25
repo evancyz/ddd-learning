@@ -16,6 +16,12 @@
 * 领域驱动设计峰会（有视频回放）：http://www.ddd-china.com/
 
 ## 优秀DDD博客
+* **殷浩谈DDD系列（这系列强烈推荐，整体思路很清晰，实操性比较强）**
+  * [殷浩详解DDD系列 第一讲 - Domain Primitive](https://mp.weixin.qq.com/s/kpXklmidsidZEiHNw57QAQ)
+  * [殷浩详解DDD系列 第二讲 - 应用架构](https://mp.weixin.qq.com/s/MU1rqpQ1aA1p7OtXqVVwxQ)
+  * [殷浩详解DDD系列 第三讲 - Repository模式](https://mp.weixin.qq.com/s/1bcymUcjCkOdvVygunShmw)
+  * [殷浩详解DDD系列 第四讲 - 领域层设计规范](https://mp.weixin.qq.com/s/w1zqhWGuDPsCayiOgfxk6w)
+  * [殷浩详解DDD系列 第五讲 - 聊聊如何避免写流水账代码](https://mp.weixin.qq.com/s/1rdnkROdcNw5ro4ct99SqQ)
 * [Data Points - Coding for Domain-Driven Design: Tips for Data-Focused Devs](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/august/data-points-coding-for-domain-driven-design-tips-for-data-focused-devs)
 * [如何一步一步用DDD设计一个电商网站](https://www.cnblogs.com/Zachary-Fan/p/5991674.html)
 * [当Subdomain遇见Bounded Context](https://insights.thoughtworks.cn/subdomain-and-bounded-context/)
