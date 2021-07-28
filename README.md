@@ -1,3 +1,7 @@
+[toc]
+
+
+
 # DDD书籍推荐
 
 [《领域驱动设计 - 软件核心复杂性应对之道》](https://book.douban.com/subject/26819666/) — Eric Evans
@@ -12,6 +16,8 @@
 
 极客时间[《DDD实战课》](https://time.geekbang.org/column/intro/238?code=Dq5EPat2lNV4uAWZZZXDh1XwkFhfbSyCQCJd4UDnlfQ%3D) — 欧创新
 
+*入门的时候可以看看*
+
 # DDD社区
 
 * 官方DDD社区（看起来已经很久不维护了）：https://dddcommunity.org/
@@ -22,30 +28,9 @@
 
 *宝藏网站，全部都是聊DDD的，相关PPT和视频在网站里都有*
 
-# 优秀DDD博客
-### DDD原理相关
+# DDD实战相关
 
-* 殷浩谈DDD系列（这系列强烈推荐，整体思路很清晰，实操性比较强）
-  * [殷浩详解DDD系列 第一讲 - Domain Primitive](https://mp.weixin.qq.com/s/kpXklmidsidZEiHNw57QAQ)
-  * [殷浩详解DDD系列 第二讲 - 应用架构](https://mp.weixin.qq.com/s/MU1rqpQ1aA1p7OtXqVVwxQ)
-  * [殷浩详解DDD系列 第三讲 - Repository模式](https://mp.weixin.qq.com/s/1bcymUcjCkOdvVygunShmw)
-  * [殷浩详解DDD系列 第四讲 - 领域层设计规范](https://mp.weixin.qq.com/s/w1zqhWGuDPsCayiOgfxk6w)
-  * [殷浩详解DDD系列 第五讲 - 聊聊如何避免写流水账代码](https://mp.weixin.qq.com/s/1rdnkROdcNw5ro4ct99SqQ)
-
-### 事件风暴实战
-
-* [记一次Event Storming实战经历](https://www.jianshu.com/p/ba85d2a9a9d8)
-
-### DDD项目实战
-
-* [如何一步一步用DDD设计一个电商网站](https://www.cnblogs.com/Zachary-Fan/p/5991674.html)
-
-### 常见DDD概念解释
-
-* 领域和限界上下文的区别？
-  * [当Subdomain遇见Bounded Context](https://insights.thoughtworks.cn/subdomain-and-bounded-context/)
-
-## DDD实践项目
+## 实践项目
 
 * [ddd-cargo](https://github.com/citerus/dddsample-core)
 
@@ -59,5 +44,43 @@
 
 极客时间《DDD实战课》里的一个基于DDD分析设计的在线请假考勤项目
 
+## 开发工具
 
+### 仓储快照工具
+
+* [aggregate-persistence](https://github.com/meixuesong/aggregate-persistence) ：DDD仓储快照工具，方便进行仓储按需更新
+
+### JavaBean映射工具
+
+* [MapStruct](https://github.com/mapstruct/mapstruct)：数据映射工具，方便DO（Data Object），Domain Object，DTO（Data Transfer Object）之间的转换
+
+# 优秀DDD博客
+
+## DDD原理相关
+
+* 殷浩谈DDD系列（这系列强烈推荐，整体思路很清晰，实操性比较强）
+  * [殷浩详解DDD系列 第一讲 - Domain Primitive](https://mp.weixin.qq.com/s/kpXklmidsidZEiHNw57QAQ)
+  * [殷浩详解DDD系列 第二讲 - 应用架构](https://mp.weixin.qq.com/s/MU1rqpQ1aA1p7OtXqVVwxQ)
+  * [殷浩详解DDD系列 第三讲 - Repository模式](https://mp.weixin.qq.com/s/1bcymUcjCkOdvVygunShmw)
+  * [殷浩详解DDD系列 第四讲 - 领域层设计规范](https://mp.weixin.qq.com/s/w1zqhWGuDPsCayiOgfxk6w)
+  * [殷浩详解DDD系列 第五讲 - 聊聊如何避免写流水账代码](https://mp.weixin.qq.com/s/1rdnkROdcNw5ro4ct99SqQ)
+
+## 事件风暴实战
+
+* [记一次Event Storming实战经历](https://www.jianshu.com/p/ba85d2a9a9d8)
+
+## DDD项目实战
+
+* [如何一步一步用DDD设计一个电商网站](https://www.cnblogs.com/Zachary-Fan/p/5991674.html)
+
+## 常见DDD概念解释
+
+* 领域和限界上下文的区别？
+  * [当Subdomain遇见Bounded Context](https://insights.thoughtworks.cn/subdomain-and-bounded-context/)
+
+# FAQ
+
+本人目前实践DDD也有1年多实践了，也看了很多DDD相关的代码和表现形式，大家的理解都有一些偏差，之后准备出点博客讲讲自己的理解。
+
+读者如果有相关概念或者实施的疑问欢迎提Issue，大家一起探讨
 
